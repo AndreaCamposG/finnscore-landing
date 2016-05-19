@@ -415,7 +415,16 @@ body {
 
 .images {
   border-radius: 50%;
-  width: 200px;
+  width: 160px;
+}
+
+.sublime {
+  margin-right: 105px;
+  margin-left: 105px;
+}
+
+.background {
+  background-color: #DD6011;
 }
 
 #subtitle {
