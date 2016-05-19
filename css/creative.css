@@ -424,7 +424,7 @@ body {
 }
 
 .background {
-  background-color: #DD6011;
+  background-color: #E8E8E8;
 }
 
 .leftie {
@@ -435,6 +435,34 @@ body {
   float: right;
 }
 
+.space {
+  margin-top: 35px;
+}
+
+.center {
+  text-align: center;
+}
+
+.low {
+  margin-bottom: 55px;
+}
+
+.black {
+  color: black;
+}
+
+.one {
+  margin-top: 95px;
+}
+
+.two {
+  margin-top: 75px;
+}
+
+.three {
+  margin-top: 75px;
+}
+
 #subtitle {
   max-width: 100%;
 }
@@ -442,4 +470,6 @@ body {
 #default {
   background-color: #DD6011;
 }
+
+
 
