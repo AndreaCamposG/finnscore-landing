@@ -419,8 +419,8 @@ body {
 }
 
 .sublime {
-  margin-right: 105px;
-  margin-left: 105px;
+  // margin-right: 105px;
+  // margin-left: 105px;
 }
 
 .background {
@@ -470,6 +470,15 @@ body {
 #default {
   background-color: #DD6011;
 }
-
+@media screen and (max-width: 320px) {
+  .leftie {
+    float: none;
+    margin: 1em 0;
+  }
+  .rightie {
+    float: none;
+    margin: 1em 0;
+  }
+}
 
 
