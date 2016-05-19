@@ -427,6 +427,14 @@ body {
   background-color: #DD6011;
 }
 
+.leftie {
+  float: left;
+}
+
+.rightie {
+  float: right;
+}
+
 #subtitle {
   max-width: 100%;
 }
